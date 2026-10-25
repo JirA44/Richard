@@ -1,3 +1,13 @@
+## Français
+
+Ce dépôt contient un dossier documentaire sensible. Cette page présente uniquement le dépôt sans reproduire les éléments personnels ou les pièces qu’il contient.
+
+## English
+
+This repository contains a sensitive documentation package. This overview describes the repository without reproducing personal details or its underlying materials.
+
+---
+
 COURT-READY EVIDENCE AND INTELLECTUAL PROPERTY PACKAGE
 
 FOR FILING AT THE CALGARY COURTS CENTRE
